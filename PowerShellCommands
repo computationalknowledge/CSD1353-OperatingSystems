@@ -1,1 +1,3 @@
 Find the version of PowerShell
+
+Get-Host | Select-Object Version
